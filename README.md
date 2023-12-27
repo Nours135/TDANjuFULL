@@ -18,4 +18,5 @@ python = 3.9 <br/>
 描述统计结果：[\[datacleaning/Descriptive.docx\](datacleaning/Descriptive_statistics_2.doc)](datacleaning/Descriptive_statistics_2.doc) & [datacleaning/描述统计 2.xlsx](<datacleaning/描述统计 2.xlsx>) <br/>
 
 ### 代码
-数据集1的mapper生成，运行[mapper/mapper.ipynb](mapper/mapper.ipynb)，或者运行[Tda_basic_flare_vacancy.ipynb](Tda_basic_flare_vacancy.ipynb)，在初始化类的时候将save参数设置为True
+数据集1的mapper生成，运行[mapper/mapper.ipynb](mapper/mapper.ipynb)，或者运行[Tda_basic_flare_vacancy.ipynb](Tda_basic_flare_vacancy.ipynb)，在初始化类的时候将save参数设置为True。<br/>
+对vacancy进行分析的所有代码，见[Tda_basic_flare_vacancy.ipynb](Tda_basic_flare_vacancy.ipynb)中主类的函数。<br/>
